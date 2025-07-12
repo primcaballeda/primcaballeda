@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Prim from Philippines<br><br>- 🔭 I’m working as a Software Developer<br>- 📚 I'm currently learning Machine Learning<br>- ⚡ In my free time I Watched different kinds of drama</p>
+<p align="left">I'm Prim from Philippines<br><br>- 🔭 I’m studying Computer Sciencer<br>- 📚 I'm currently learning Machine Learning<br>- ⚡ In my free time I Watched different kinds of drama</p>
 
 ###
 
@@ -36,9 +36,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" height="40" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" height="40" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="ruby logo"  />
   <img width="12" />
