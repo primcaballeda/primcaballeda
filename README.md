@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Prim from Philippines<br><br>- 🔭 I’m studying Computer Sciencer<br>- 📚 I'm currently learning Machine Learning<br>- ⚡ In my free time I Watched different kinds of drama</p>
+<p align="left">I'm Prim from Philippines<br><br>- 🔭 I’m studying Computer Sciencer<br>- 📚 I'm currently learning Machine Learning<br>- ⚡ In my free time I watched different kinds of drama</p>
 
 ###
 
@@ -58,6 +58,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain-wordmark.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40" alt="docker logo"  />
+  
 </div>
 
 ###
